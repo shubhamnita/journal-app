@@ -66,5 +66,3 @@ After execution the application will show three options : Login |register |exit
 ## Authors
 
 * **Shubham Kumar** 
-
-
