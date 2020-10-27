@@ -1,5 +1,5 @@
 asn1crypto==0.24.0
-cryptography==2.7
+cryptography==3.2
 pycparser==2.19
 pycryptodome==3.8.1
 
